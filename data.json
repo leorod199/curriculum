@@ -1,15 +1,16 @@
 {
   "name": "Leonardo Rodrigues",
-  "career": "Desenvolvedor Front-end",
-  "intro": "Trabalhar com desenvolvimento web e continuar aprendendo sobre novas tecnologias do mercado. Ter a possibilidade de conhecer novas pessoas, e com isso, poder trocar conhecimentos e aprendizados dentro desse setor.",
+  "career": "Desenvolvedor Front-end JR",
+  "intro": "Minha meta é trabalhar na área de desenvolvimento web. Com isso, por em prática todos os meus estudos e aprendizados, e principalmente, poder colaborar com a equipe aprendendo e ensinando novas tecnologias. Me vejo num futuro próximo sendo desenvolvedor sênior e com carreira consolidada nessa área de atuação.",
+
   "skills": [
-    "HTML e CSS (Intermediário)",
-    "CSS Flex e Grid (Intermediário)",
+    "HTML e CSS (Avançado)",
+    "CSS Flex e Grid (Avançado)",
+    "Bootstrap (Avançado)",
     "SCSS (Intermediário)",
-    "Bootstrap (Intermediário)",
     "Javascript (Intermediário)",
     "API (Intermediário)",
-    "React (Estudando)"
+    "React (Intermediário)"
   ],
 
   "contacts": [
@@ -97,6 +98,11 @@
       "icon": "fa-brands fa-square-github",
       "short": "Nava Grid",
       "url": "https://leorod199.github.io/nava-gridcss-treino/"
+    },
+    {
+      "icon": "fa-brands fa-square-github",
+      "short": "F4Life",
+      "url": "https://leorod199.github.io/Desafio-Labenu-gbtech"
     },
     {
       "icon": "fa-brands fa-square-github",
