@@ -1,0 +1,16 @@
+.Title {
+  color: var(--title);
+  letter-spacing: 0.1rem;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+
+  &:after {
+    background-color: var(--contrast);
+    border-radius: 0.1rem;
+    content: "";
+    display: block;
+    height: 0.3rem;
+    margin-top: 0.5rem;
+    width: 5rem;
+  }
+}

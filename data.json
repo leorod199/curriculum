@@ -1,0 +1,117 @@
+{
+  "name": "Leonardo Rodrigues",
+  "career": "Desenvolvedor Front-end",
+  "intro": "Trabalhar com desenvolvimento web e continuar aprendendo sobre novas tecnologias do mercado. Ter a possibilidade de conhecer novas pessoas, e com isso, poder trocar conhecimentos e aprendizados dentro desse setor.",
+  "skills": [
+    "HTML e CSS (Intermediário)",
+    "CSS Flex e Grid (Intermediário)",
+    "SCSS (Intermediário)",
+    "Bootstrap (Intermediário)",
+    "Javascript (Intermediário)",
+    "API (Intermediário)",
+    "React (Estudando)"
+  ],
+
+  "contacts": [
+    {
+      "icon": "fa-brands fa-linkedin",
+      "short": "leorod199",
+      "url": "https://www.linkedin.com/in/leonardo-rodrigues-77097614a/"
+    },
+    {
+      "icon": "fa-solid fa-square-envelope",
+      "short": "leorod199@gmail.com",
+      "url": "leorod199@gmail.com",
+      "type": "mailto"
+    },
+    {
+      "icon": "fa-solid fa-square-phone",
+      "short": "(21) 988252680",
+      "url": "+5521988252680",
+      "type": "tel"
+    },
+    {
+      "icon": "fa-brands fa-square-whatsapp",
+      "short": "Whatsapp",
+      "url": "https://api.whatsapp.com/send/?phone=5521988252680"
+    }
+  ],
+
+  "experiences": [
+    {
+      "title": "Autônomo",
+      "date": "jan 2022 - atualmente",
+      "abilitys": [
+        "Desenvolvimento da estrutura e visual de páginas e landing pages.",
+        "Desenvolvimento de estruturas usando HTML e CSS/SCSS baseados em componentes.",
+        "Inserir conteúdo nos componentes através de CMS ."
+      ]
+    },
+    {
+      "title": "Rentalhost",
+      "date": "jun 2020 - jan 2022",
+      "abilitys": [
+        "Desenvolvimento da estrutura e visual de páginas e landing pages.",
+        "Desenvolvimento de estruturas usando HTML e CSS/SCSS baseados em componentes.",
+        "Inserir conteúdo nos componentes através de CMS ."
+      ]
+    }
+  ],
+
+  "formation": [
+    {
+      "title": "Engenharia de Software(pós), Estácio",
+      "date": "JUN 2020 - JUN 2021"
+    },
+    {
+      "title": "Gestão da TI, Estácio ",
+      "date": "jan 2018 - jun 2020"
+    }
+  ],
+
+  "courses": [
+    {
+      "title": "Desenvolve 2022, Boticário - Bootcamp ",
+      "date": "jan 2022 - out 2022"
+    },
+    {
+      "title": "React Completo, Origamid - 36 horas",
+      "date": "JUN 2022 - JUL 2022"
+    },
+    {
+      "title": "CSS Grid Layout, Origamid - 10 horas",
+      "date": "fev 2022 - fev 2022"
+    },
+    {
+      "title": "CSS Flexbox, Origamid - 06 horas",
+      "date": "JUL 2019 - JUL 2019"
+    },
+    {
+      "title": "Web Design Completo - 44 horas",
+      "date": "jul 2019 - jul 2019"
+    }
+  ],
+
+  "projects": [
+    {
+      "icon": "fa-brands fa-square-github",
+      "short": "Nava Grid",
+      "url": "https://leorod199.github.io/nava-gridcss-treino/"
+    },
+    {
+      "icon": "fa-brands fa-square-github",
+      "short": "Anjos com Patas",
+      "url": "https://leorod199.github.io/vet-anjo-de-patas/"
+    },
+    {
+      "icon": "fa-brands fa-square-github",
+      "short": "Funcões de Array",
+      "url": "https://leorod199.github.io/funcoes_array/"
+    },
+    {
+      "icon": "fa-brands fa-square-github",
+      "short": "Ouvido Absoluto",
+      "url": "https://leorod199.github.io/treinarouvido/"
+    }
+  ]
+}

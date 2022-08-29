@@ -1,0 +1,25 @@
+@import "../components/mixins/mixins.scss";
+.Items {
+  align-items: center;
+  list-style: none;
+
+  > .item {
+    line-height: 1.5;
+    margin-left: 1rem;
+    @include mobile {
+      margin: initial;
+    }
+    &::before {
+      background-color: var(--contrast);
+      border-radius: 0.1rem;
+      content: "";
+      display: inline-block;
+      height: 0.5rem;
+      margin-right: 0.5rem;
+      width: 0.5rem;
+    }
+    &:not(:first-child) {
+      margin-top: 0.25rem;
+    }
+  }
+}

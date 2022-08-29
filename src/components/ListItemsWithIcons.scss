@@ -1,0 +1,17 @@
+a {
+  align-items: center;
+  color: var(--contrast);
+  display: flex;
+  margin-bottom: 0.5rem;
+  text-decoration: none;
+  transition: 0.2s;
+
+  i {
+    font-size: 1.5rem;
+    margin-right: 0.5rem;
+  }
+
+  &:hover {
+    filter: brightness(50%);
+  }
+}
